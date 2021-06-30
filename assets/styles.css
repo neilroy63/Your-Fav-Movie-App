@@ -6,7 +6,15 @@ margin: 10px;
 }
 
 .log-in{
-    display: flex;
-    position: fixed;    
+    display: flexbox;
+    
+
+}
+
+.button {
+    display: flexbox;
+    position: relative;
+    padding: 10px;
+    margin: 10px;
 
 }
